@@ -1,2 +1,2 @@
 # vqa
-visual question answering implements with Tensorflow
+Multimodal Cross-guided Attention Networks for Visual Question Answering implements with Tensorflow
